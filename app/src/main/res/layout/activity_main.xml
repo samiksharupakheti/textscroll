@@ -47,6 +47,12 @@
                 android:lineSpacingExtra="10dp"
                 android:padding="10dp"
                 android:text="@string/article_text" />
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/comment_button"
+                android:text="@string/add_comment"/>
         </LinearLayout>
 
 
